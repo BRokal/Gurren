@@ -1,0 +1,115 @@
+assistant_version: 1.2.11
+library_version: 1.0.3
+last_updated: 2022-01-30
+injection_clients:
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Assistanbert/scripts/attack_update.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Assistanbert/assistant/.inject/attacks.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/bair.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/dair.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/dattack.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/dspecial.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/dstrong.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/dtilt.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/fair.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/fspecial.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/fstrong.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/ftilt.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/jab.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/nair.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/nspecial.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/taunt.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/uair.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/uspecial.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/ustrong.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/utilt.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/load.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/load_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/extra1.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attacks/uthrow.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/attacks.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/attack_update.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/spawners.gml
+  C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/scripts/article1_update.gml:
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/.inject/logging.gml
+  - C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/generals.gml
+processed_time: 2022-01-30 20:58:51.853117
+seen_files:
+- C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/anims/Gurren_Sketchbook_temp.aseprite
+- C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/attacks_extra.gml
+- C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/generals.gml
+- C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/load_extra.gml
+- C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/marwalGrab.gml
+- C:/Users/berro/AppData/Local/RivalsofAether/workshop/Gurren (Local)/assistant/user_inject/spawners.gml
+anim_hashes:
+  Gurren_Sketchbook_temp:
+    idle_hurt: 676a4df452dd54b0578b368bb6faf881
+    idle: 44e98929bbba3ab113c912a80c9bd930
+    crouch: 1e42999de26d5036b3ae27b4c4543a13
+    walk: 7bee8b86c01cfde51229051af60c518b
+    dashstart: 32a8dfed072fbe79674312745679424b
+    dash: df96820fe99094da7ba3820904e96ff7
+    jumpstart: 1fa31467a352fa1eb9853c402f8e27d0
+    jump: cc30f0d3c640e1e5e36ea9b7f09069e1
+    doublejump: 01400d145692f23f57288ae7827fa9bb
+    pratfall: 71487b9cbd65cfd12431b74e3a4909c1
+    flip: 6a0c83be9e28a660fd3f3c983def710f
+    flip2: 9e70d13b849cd70bd911a9b5264f6d52
+    jab: 019576c02ae303a60a4c2d2c944336a0
+    dattack: 2741946a3878bf921e96c6b3976644c1
+    ftilt: 87f7d472358b3f89cb91c91f72d81714
+    dtilt: 99693f6adfe7ea12150bdf62c78dcbdd
+    utilt: 94e757924f7e55e01d47e4328b0a7bcd
+    fstrong: f215a501fb98a11115306ad854f7c9ef
+    ustrong: 602913602f8a700c33cc1b0d6be5ad2b
+    dstrong: 1d28a065ef6008b81158437f2fa5c835
+    nair: ef599e2556087b52e1d79dd41e199b0d
+    fair: 867c84fd9aa69f08e74595d462fff076
+    uair: 430ecad312a455f6349a7870cd12f541
+    dair: 3af1d5efe04a4a1d3b6100de38416c6f
+    nspecial: aa85a64469c31dad3fbf857ecb52a564
+    dspecial: 17f8a3891623498beb30148d47b0bc73
+    dspecial2: 680db94e7347e4d4d90d5df022fbc0e7
+    uspecial: 25eb9dd72ae33c4379b2dd454db0b603
+    fire: a6af26b85d70ecb82afc40ed37f1ab80
+    tornado: 1c58f30eec197d773688777d8061c160
+    fire_tornado: 7e5341d26b6bacecae3c01acb1f1d419
+    tornado_mask: 8930836eedbea69fbc10ed1898fca6e6
